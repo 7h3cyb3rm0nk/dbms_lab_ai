@@ -1,6 +1,6 @@
 # DBMS Lab Programs
 
-[![Build and Release PDF](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/build.yml/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/build.yml)
+[![Build and Release PDF](https://github.com/7h3cyb3rm0nk/dbms_lab_ai/actions/workflows/build.yml/badge.svg)](https://github.com/7h3cyb3rm0nk/dbms_lab_ai/actions/workflows/build.yml)
 [![Made with Typst](https://img.shields.io/badge/Made%20with-Typst-239DAD?logo=typst&logoColor=white)](https://typst.app/)
 
 MSc AI DBMS lab programs and practical exercises.
