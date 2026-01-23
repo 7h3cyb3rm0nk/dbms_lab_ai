@@ -26,7 +26,7 @@ Thank you for considering contributing to this project! This document provides g
 Before you begin, ensure you have:
 
 - [Git](https://git-scm.com/downloads) installed
-- [Typst](https://typst.app/docs/installation/) installed (for local compilation)
+- [Typst](https://github.com/typst/typst?tab=readme-ov-file#installation) installed (for local compilation)
 - A GitHub account
 - Basic knowledge of SQL and Typst/Markdown syntax
 
