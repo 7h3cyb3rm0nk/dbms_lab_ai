@@ -825,8 +825,9 @@ WHERE prices > (SELECT AVG(prices) FROM product);
 *Output:*
 
 #table(
-  columns: 8,
+  columns: (auto,auto,auto,auto,auto,auto,auto,auto),
   stroke: 0.5pt,
+  inset: 4pt,
   [*p_no*], [*description*], [*stocking_date*], [*qty_on_hand*], [*min_qty*], [*prices*], [*discount*], [*v_code*],
   [P103], [HD Monitor], [2024-01-10], [15], [2], [200], [15], [V002]
 )
